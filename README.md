@@ -109,7 +109,7 @@ This is an example of how to list things you need to use the software and how to
 * Library installation
   ```sh
   * pip3 install partial
-  * pip3 install tkinter
+  * pip3 install tk
   ```
 
 ### RUN
