@@ -62,7 +62,7 @@ class Game:
 if __name__ == '__main__':
 	root = Tk()
 	root.geometry("400x400")
-
+	root.title("Station Project 2 : Craps")
 	root.resizable(width = False, height = False)
 	Game()
 	root.mainloop()
